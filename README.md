@@ -42,8 +42,8 @@ Before running the project, make sure the following tools are installed:
 
 ### 1️⃣ Clone the Repository  
 ```bash  
-git clone https://github.com/yourusername/sqrt-calculator.git  
-cd sqrt-calculator  
+https://github.com/yourusername/react-sss.git
+cd sss  
 ```  
 
 ### 2️⃣ Install Dependencies  
