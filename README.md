@@ -1,4 +1,4 @@
-# 🧮 Square Root Calculator  
+# 🔄 Square Root Calculator  
 
 ## 💡 Python Layout
 ### The Python layout can be viewed [here.](https://github.com/RushilMahadevu/python-layout-sss)
