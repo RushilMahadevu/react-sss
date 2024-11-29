@@ -124,24 +124,6 @@ The app employs an iterative approach to calculate square roots:
 
 ---
 
-## 🤝 Contributing  
-
-We welcome contributions to improve this project!  
-
-### Steps to Contribute:  
-1. **Fork** the repository.  
-2. Create a **feature branch**.  
-3. **Commit** your changes.  
-4. **Push** to your branch.  
-5. Open a **pull request**.  
-
-### Contribution Guidelines:  
-- Maintain existing coding style.  
-- Add tests for new features.  
-- Update documentation when necessary.  
-
----
-
 ## ⚡️ Performance  
 
 - Uses a lightweight iterative algorithm for square root calculations.  
