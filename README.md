@@ -1,13 +1,15 @@
 # 🔄 Square Root Calculator  
 
 ## 💡 Python Layout
-### To learn more about the idea a Python layout can be viewed [here](https://github.com/RushilMahadevu/python-layout-sss).
+### To learn more about the idea a further in depth Python layout can be viewed [here](https://github.com/RushilMahadevu/python-layout-sss).
 
  <br />
 
 ## 📌 Project Overview  
 
 The **Square Root Calculator** is a web application built with React that provides an interactive and user-friendly interface for calculating square roots. Leveraging a custom algorithm inspired by a Python script, this tool not only computes square roots of non-negative integers but also offers optional step-by-step calculation details for an educational experience.  
+
+<br />
 
 ## 🔧 Prerequisites  
 
