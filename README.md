@@ -3,7 +3,7 @@
 ## 💡 Python Layout
 ### To learn more about the idea a Python layout can be viewed [here](https://github.com/RushilMahadevu/python-layout-sss).
 
----
+ <br />
 
 ## 📌 Project Overview  
 
@@ -16,7 +16,7 @@ Before running the project, make sure the following tools are installed:
 - **Node.js** (v14 or later)  
 - **npm** (v6 or later)  
 
----
+ <br />
 
 ## 🛠 Technology Stack  
 
@@ -24,7 +24,7 @@ Before running the project, make sure the following tools are installed:
 - **📦 Vite**: Lightning-fast development environment.  
 - **💅 Inline Styling**: Clean and simple customization of styles.  
 
----
+ <br />
 
 ## 🚀 Installation  
 
@@ -47,7 +47,7 @@ npm run dev
 ### 4️⃣ Open in Browser  
 Visit `http://localhost:5173` to view the app.  
 
----
+ <br />
 
 
 ## 🏗 Component Structure  
@@ -68,11 +68,11 @@ Visit `http://localhost:5173` to view the app.
    - Displays calculation result.  
    - Optionally shows detailed calculation steps in a table.  
 
----
+ <br />
 
 ## 🏆 Acknowledgments  
 
 - Inspired by a Python script for calculating square roots.  
 - Built with React and powered by Vite
 
----  
+ <br />  
